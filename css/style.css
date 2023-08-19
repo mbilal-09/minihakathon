@@ -1,0 +1,59 @@
+#loader{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#signin {
+    height: 100vh;
+width: 100%;
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#signinForm{
+    display: flex;
+    flex-direction: column  ;
+    align-items: center;
+    justify-content: center;
+}
+#signinForm input{
+    width: 50%;
+}
+#login {
+    height: 100vh;
+width: 100%;
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#loginForm{
+    display: flex;
+    flex-direction: column  ;
+    align-items: center;
+    justify-content: center;
+}
+#loginForm input{
+    width: 50%;
+}
+.nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    height: 40px;
+    width: 100%;
+    padding: 0 50px;
+    background-color: rgb(40, 95, 95);
+    color: white ;
+}
+#dontHaveAccount{
+    cursor: pointer;
+}
+.nav{
+    background-color: #7749f8;
+}
